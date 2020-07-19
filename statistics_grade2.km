@@ -1,0 +1,301 @@
+{
+    "root": {
+        "data": {
+            "id": "c43fx9nbq1c0",
+            "created": 1594434683404,
+            "text": "statistics",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c43hzgktm2o0",
+                    "created": 1594440497439,
+                    "text": "平均値の検定",
+                    "expandState": "expand",
+                    "layout_mind_offset": {
+                        "x": -100,
+                        "y": 5
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c43imwwspls0",
+                            "created": 1594442335367,
+                            "text": "1標本t検定"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c43in4g56ls0",
+                                    "created": 1594442351774,
+                                    "text": "帰無仮説は"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c43in9zh7400",
+                                            "created": 1594442363827,
+                                            "text": "平均は○○である"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c43inienrtk0",
+                                                    "created": 1594442382160,
+                                                    "text": "両側ｔ検定"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c43inna782o0",
+                                            "created": 1594442392774,
+                                            "text": "平均は○○より大きいor小さい"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c43inr48g2w0",
+                                                    "created": 1594442401120,
+                                                    "text": "片側t検定"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c43ip59fh340",
+                                    "created": 1594442510273,
+                                    "text": "自由度は"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c43ip6zdwso0",
+                                            "created": 1594442514020,
+                                            "text": "ｎ－１"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c43ipcrml7k0",
+                                    "created": 1594442526611,
+                                    "text": "統計量ｔは"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c43ipg6cgfc0",
+                                            "created": 1594442534032,
+                                            "text": "t",
+                                            "image": "https://bellcurve.jp/statistics/wp-body/wp-content/ql-cache/quicklatex.com-bbec58fda8259f4bdb067c41d5f0e870_l3.png",
+                                            "imageTitle": "t",
+                                            "imageSize": {
+                                                "width": 200,
+                                                "height": 74
+                                            }
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c43fxx6b7dc0",
+                            "created": 1594434734618,
+                            "text": "２標本ｔ検定(2 sample t test)",
+                            "expandState": "expand",
+                            "layout_mind_offset": {
+                                "x": -76,
+                                "y": -3
+                            },
+                            "note": "2つの独立な母集団から抽出した標本の平均に差があるかどうかを検定する2つの独立な母集団から抽出した標本の平均に差があるかどうかを検定する",
+                            "font-weight": "bold"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c43fyozp77k0",
+                                    "created": 1594434795169,
+                                    "text": "対応のないデータ",
+                                    "expandState": "expand",
+                                    "note": "異なる対象から抽出異なる対象から抽出"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c43g8aswf400",
+                                            "created": 1594435547924,
+                                            "text": "帰無仮説は",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c43g8csg83k0",
+                                                    "created": 1594435552250,
+                                                    "text": "平均は等しい",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "c43iqhd8big0",
+                                                            "created": 1594442614989,
+                                                            "text": "両側検定"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c43fz5ydb8g0",
+                                            "created": 1594434832093,
+                                            "text": "自由度は",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c43fz87dfj40",
+                                                    "created": 1594434836991,
+                                                    "text": "freedom degrees   ",
+                                                    "image": "https://bellcurve.jp/statistics/wp-body/wp-content/ql-cache/quicklatex.com-38bd78db645e5426449bed5fb78ad9f2_l3.png",
+                                                    "imageTitle": "",
+                                                    "imageSize": {
+                                                        "width": 106,
+                                                        "height": 18
+                                                    },
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c43g1kf53kw0",
+                                            "created": 1594435020311,
+                                            "text": "プールした分散",
+                                            "expandState": "expand",
+                                            "note": "２つの標本の不変分散をまとめたもの２つの標本の不変分散をまとめたもの"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c43g1u73qvc0",
+                                                    "created": 1594435041593,
+                                                    "text": "s",
+                                                    "image": "https://bellcurve.jp/statistics/wp-body/wp-content/ql-cache/quicklatex.com-45bf6035d6222c4569d5695dba82ca66_l3.png",
+                                                    "imageTitle": "s",
+                                                    "imageSize": {
+                                                        "width": 200,
+                                                        "height": 30
+                                                    },
+                                                    "priority": null,
+                                                    "note": null,
+                                                    "hyperlink": null,
+                                                    "hyperlinkTitle": null,
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c43g90k80i00",
+                                            "created": 1594435603996,
+                                            "text": "統計量ｔは",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c43g93nlnkg0",
+                                                    "created": 1594435610730,
+                                                    "text": "t",
+                                                    "image": "https://bellcurve.jp/statistics/wp-body/wp-content/ql-cache/quicklatex.com-973972b0b9a3625ee4d62c652ca446fd_l3.png",
+                                                    "imageTitle": "",
+                                                    "imageSize": {
+                                                        "width": 200,
+                                                        "height": 48
+                                                    },
+                                                    "expandState": "expand"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c43fyr2fcu80",
+                                    "created": 1594434799687,
+                                    "text": "対応のあるデータ",
+                                    "expandState": "expand",
+                                    "note": "同一の対象から抽出同一の対象から抽出"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c43g5hpekbk0",
+                                            "created": 1594435327858,
+                                            "text": "データの差を用いることで１標本の検定となる",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c43g6v5mz340",
+                                            "created": 1594435435502,
+                                            "text": "帰無仮説は「差の平均は０である」",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c43isdyctm00",
+                    "created": 1594442764287,
+                    "text": "母比率の検定"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c43ishd5ev40",
+                    "created": 1594442771712,
+                    "text": "独立性の検定"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
